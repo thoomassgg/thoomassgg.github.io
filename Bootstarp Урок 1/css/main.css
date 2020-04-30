@@ -1,0 +1,58 @@
+body {
+  color: #333;
+}
+.header {
+  font-size: 24px;
+  margin: 40px auto;
+}
+.header span {
+  display: block;
+  margin-bottom: 25px;
+}
+.content {
+  margin-top: 50px;
+}
+.section {
+  padding: 30px 0;
+}
+.video {
+  margin-bottom: 15px;
+}
+.form {
+  border: 5px solid #2727d9;
+  padding: 30px;
+}
+.form input {
+  margin: 25px auto;
+}
+.fomt-header {
+  font-weight: 900;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.form-btn {
+  margin-top: 30px;
+  background-color: #2727d9;
+  margin-bottom: 10px;
+  float: none;
+}
+.section-header {
+  font-weight: 900;
+  font-size: 24px;
+  margin-top: 350px;
+  margin-bottom: 0;
+}
+.feature {
+  margin-top: 75px;
+}
+.feature p {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.feature {
+  max-height: 75px;
+  max-width: 75px;
+}
